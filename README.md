@@ -1,4 +1,3 @@
-# keras-IMDB-LSTM-sentiment-classifier
 # Seminars
 Repository for seminar schedule.
 
