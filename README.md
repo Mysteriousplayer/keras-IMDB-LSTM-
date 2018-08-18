@@ -6,12 +6,12 @@ Repository for seminar schedule.
 ### Seminar (XXX X pm.)
 | Date  | Title                                                    |
 | ------ | ------------------------------------------------------- |
-| Aug 18 | Efficient Estimation of Word Representations in Vector Space |
+| Aug 18 | 基于LSTM对IMDB数据集进行情感分析                          |
 |        |                                                         |
 |        |                                                         |
 
 
-# 相关资料（2018-08-07）
+# 相关资料（2018-08-18）
 
 [基于LSTM对IMDB数据集进行情感分析](https://www.jianshu.com/p/6b16b592b08d)
 
