@@ -1,1 +1,1 @@
-# keras-IMDB-LSTM-sentiment—classifier
+# keras-IMDB-LSTM-sentiment-classifier
