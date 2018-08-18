@@ -4,16 +4,19 @@ Repository for seminar schedule.
 
 # Schedule
 ### Seminar (XXX X pm.)
-| Date   | Speaker     | Title                                                   |
-| ------ | ----------- | ------------------------------------------------------- |
-| Aug 07 | Mi Shengrun | You Only Look Once: Unified, Real-Time Object Detection |
-| Aug 23 | Wang Shaokun| Efficient Estimation of Word Representations in Vector Space |
-|        |             |                                                         |
-|        |             |                                                         |
+| Date  | Title                                                    |
+| ------ | ------------------------------------------------------- |
+| Aug 18 | Efficient Estimation of Word Representations in Vector Space |
+|        |                                                         |
+|        |                                                         |
 
 
 # 相关资料（2018-08-07）
 
-[YOLO——基于回归的目标检测算法](https://blog.csdn.net/a417197457/article/details/80224450)
+[基于LSTM对IMDB数据集进行情感分析](https://www.jianshu.com/p/6b16b592b08d)
 
-[YOLO论文阅读笔记](https://blog.csdn.net/u010167269/article/details/52638771)
+[keras IMDB数据集 LSTM分类](https://blog.csdn.net/o0Helloworld0o/article/details/70186407)
+
+[keras中文api文档](https://keras-cn.readthedocs.io/en/latest/)
+
+[keras：LSTM函数详解](https://blog.csdn.net/jiangpeng59/article/details/77646186/)
